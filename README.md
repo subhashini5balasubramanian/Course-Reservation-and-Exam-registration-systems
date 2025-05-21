@@ -9,16 +9,17 @@
 To develop the Course Reservation and Exam Registration System using Star UML
 
 # Problem Statement:
-1. Exam Registration System is used in the effective registration of exams to all of the applicants. This system adopts a comprehensive approach to minimize the manual work and schedule resources, time in a coherent manner.
+Educational institutions face challenges in managing course registrations and exam enrollments manually, which often results in errors, inefficiencies, and student dissatisfaction.
 
-2. The core of the system is to get the online registration form (with details such as name, address etc.,) filled by the applicant whose details are later verified by the Administrator.
+Students struggle with real-time access to course availability, prerequisites, time-table conflicts, and often miss deadlines or make incorrect exam registrations due to lack of system guidance.
 
-3. Then the applicant needs to pay the examination fees by the interface provided in the Exam Registration system. After the end of the due date for submitting the form, the information is in turn forwarded to the administrator's view.
+There is no centralized platform to handle both course and exam registrations, making it difficult to track eligibility, enforce prerequisites, and generate reports or hall tickets accurately.
 
-4. The applications are then processed ased on the information given by the applicant, and any forfeiting identified can make the applicant liable to penalty as per the law.
+Faculty and administrators require an automated system to create and manage course and exam schedules, monitor student registrations, and generate accurate academic records.
 
-5. The administrator after successful confirmation, initiates the process to generate the hall tickets for the applicants. After successful generation of hall tickets, the system delivers the hall ticket to the applicants. The applicants can download the hall tickets finally in the end.
+A combined system is needed to allow students to seamlessly register for courses and corresponding exams with real-time validation, schedule checks, seat availability, and automatic eligibility verification.
 
+The system must provide secure, role-based access for students, faculty, and administrators while ensuring timely notifications, analytics, and integration with academic databases for transparent and efficient academic management.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
