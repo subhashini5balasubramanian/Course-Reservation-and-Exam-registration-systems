@@ -9,17 +9,17 @@
 To develop the Course Reservation and Exam Registration System using Star UML
 
 # Problem Statement:
-Educational institutions face challenges in managing course registrations and exam enrollments manually, which often results in errors, inefficiencies, and student dissatisfaction.
+1.Educational institutions face challenges in managing course registrations and exam enrollments manually, which often results in errors, inefficiencies, and student dissatisfaction.
 
-Students struggle with real-time access to course availability, prerequisites, time-table conflicts, and often miss deadlines or make incorrect exam registrations due to lack of system guidance.
+2.Students struggle with real-time access to course availability, prerequisites, time-table conflicts, and often miss deadlines or make incorrect exam registrations due to lack of system guidance.
 
-There is no centralized platform to handle both course and exam registrations, making it difficult to track eligibility, enforce prerequisites, and generate reports or hall tickets accurately.
+3.There is no centralized platform to handle both course and exam registrations, making it difficult to track eligibility, enforce prerequisites, and generate reports or hall tickets accurately.
 
-Faculty and administrators require an automated system to create and manage course and exam schedules, monitor student registrations, and generate accurate academic records.
+4.Faculty and administrators require an automated system to create and manage course and exam schedules, monitor student registrations, and generate accurate academic records.
 
-A combined system is needed to allow students to seamlessly register for courses and corresponding exams with real-time validation, schedule checks, seat availability, and automatic eligibility verification.
+5.A combined system is needed to allow students to seamlessly register for courses and corresponding exams with real-time validation, schedule checks, seat availability, and automatic eligibility verification.
 
-The system must provide secure, role-based access for students, faculty, and administrators while ensuring timely notifications, analytics, and integration with academic databases for transparent and efficient academic management.
+6.The system must provide secure, role-based access for students, faculty, and administrators while ensuring timely notifications, analytics, and integration with academic databases for transparent and efficient academic management.
 UML DIAGRAMS
 
 # USE CASE DIAGRAM
